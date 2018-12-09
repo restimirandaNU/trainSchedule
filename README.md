@@ -8,7 +8,8 @@ Getting Started:
 Link:https://restimirandanu.github.io/trainSchedule/
 
 Screen shot:
-https://github.com/restimirandaNU/trainSchedule/issues/1#issue-388992369
+![image]
+(https://github.com/restimirandaNU/trainSchedule/issues/1#issue-388992369)
 
 Set Up:
 Using Firebase to store data, GitHub to backup project, and GitHub Pages to host finished site
