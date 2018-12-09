@@ -5,10 +5,9 @@ Description:
 In this assignment, to create a train schedule application that incorporates Firebase to host arrival and departure data and retrieve/manipulate this information with Moment.js. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
 Getting Started:
-Link:https://restimirandanu.github.io/trainSchedule/
+View Train Schedule:https://restimirandanu.github.io/trainSchedule/
 
 Screen shot:
-![image]
 (https://github.com/restimirandaNU/trainSchedule/issues/1#issue-388992369)
 
 Set Up:
